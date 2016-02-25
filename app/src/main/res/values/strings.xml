@@ -1,0 +1,21 @@
+<resources>
+    <string name="App_name">Popular Movies</string>
+    <string name="Popularity">Most Popular</string>
+    <string name="Highest_rating">Highest Rated</string>
+    <string name="Share">Share</string>
+    <string name="Sort_by">Sort by</string>
+    <string name="Sort_by_favorites">Favorites</string>
+    <string name="Release_date">Released</string>
+    <string name="Details">Details</string>
+    <string name="Removed_favorites">Removed from Favorites</string>
+    <string name="Added_favorites">Added to Favorites</string>
+    <string name="content_authority">com.example.myapp</string>
+    <string name="Activity_detail">Movie Details</string>
+    <string name="Rating">Rating</string>
+    <string name="Trailers">Trailers</string>
+    <string name="Reviews">Reviews</string>
+    <string name="Favorite">Favorite</string>
+    <string name="api_key">7c4f0b54b6387e210e59cdd2f7d0833a</string>
+
+
+</resources>
